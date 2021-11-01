@@ -1,1 +1,2 @@
-# Create a website about magang
+# website about magang
+Sebuah website magang
