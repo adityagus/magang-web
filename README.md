@@ -1,1 +1,1 @@
-# magang-web
+# Create a website about magang
